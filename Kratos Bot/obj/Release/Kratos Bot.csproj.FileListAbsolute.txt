@@ -1,0 +1,22 @@
+C:\Users\crike\source\repos\Kratos Bot\Kratos Bot\bin\Release\Kratos Bot.exe.config
+C:\Users\crike\source\repos\Kratos Bot\Kratos Bot\bin\Release\Kratos Bot.exe
+C:\Users\crike\source\repos\Kratos Bot\Kratos Bot\bin\Release\Kratos Bot.pdb
+C:\Users\crike\source\repos\Kratos Bot\Kratos Bot\bin\Release\Discord.Net.Commands.xml
+C:\Users\crike\source\repos\Kratos Bot\Kratos Bot\bin\Release\Discord.Net.Core.xml
+C:\Users\crike\source\repos\Kratos Bot\Kratos Bot\bin\Release\Discord.Net.Rest.xml
+C:\Users\crike\source\repos\Kratos Bot\Kratos Bot\bin\Release\Discord.Net.Webhook.xml
+C:\Users\crike\source\repos\Kratos Bot\Kratos Bot\bin\Release\Discord.Net.WebSocket.xml
+C:\Users\crike\source\repos\Kratos Bot\Kratos Bot\bin\Release\Leaf.xNet.xml
+C:\Users\crike\source\repos\Kratos Bot\Kratos Bot\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\crike\source\repos\Kratos Bot\Kratos Bot\bin\Release\Newtonsoft.Json.xml
+C:\Users\crike\source\repos\Kratos Bot\Kratos Bot\bin\Release\System.Collections.Immutable.xml
+C:\Users\crike\source\repos\Kratos Bot\Kratos Bot\bin\Release\System.Interactive.Async.xml
+C:\Users\crike\source\repos\Kratos Bot\Kratos Bot\bin\Release\System.Linq.Async.xml
+C:\Users\crike\source\repos\Kratos Bot\Kratos Bot\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\crike\source\repos\Kratos Bot\Kratos Bot\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\crike\source\repos\Kratos Bot\Kratos Bot\obj\Release\Kratos Bot.csprojAssemblyReference.cache
+C:\Users\crike\source\repos\Kratos Bot\Kratos Bot\obj\Release\Kratos Bot.csproj.CoreCompileInputs.cache
+C:\Users\crike\source\repos\Kratos Bot\Kratos Bot\obj\Release\Kratos Bot.csproj.Fody.CopyLocal.cache
+C:\Users\crike\source\repos\Kratos Bot\Kratos Bot\obj\Release\Kratos Bot.csproj.CopyComplete
+C:\Users\crike\source\repos\Kratos Bot\Kratos Bot\obj\Release\Kratos Bot.exe
+C:\Users\crike\source\repos\Kratos Bot\Kratos Bot\obj\Release\Kratos Bot.pdb
